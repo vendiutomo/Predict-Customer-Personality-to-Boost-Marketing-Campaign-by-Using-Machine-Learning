@@ -1,7 +1,11 @@
 # Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning
 #3 Mini Project at Rakamin Academy
 
-## Conversion Rate Analysis Based on Income, Spending and Age
+A company can develop rapidly when it knows its customer personality behavior, so it can provide better services and benefits to customers who have the potential to become loyal customers.
+
+By processing historical marketing campaign data to improve performance and target the right customers so they can transact on the company's platform, from this data insight our focus is to create a cluster prediction model to make it easier for companies to make decisions
+
+## Conversion Rate Analysis Based on Income, Spending, and Age
 ### Age Group
 ![image](https://github.com/vendiutomo/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/128874036/46985ab7-eaaa-497d-b5fb-49ba3246027f)
 
